@@ -64,15 +64,15 @@ From the picture above, observe that all positive elements remain unchanged whil
 
 # References
 
-* [31] https://us.tomonews.net
-* [32] https://www.dji.com/phantom-3-pro 
-* [33] https://www.tensorflow.org/ 
-* [34] https://www.toptal.com/machine-learning/tensorflow-python-tutorial 
-* [35] https://evrythng.com/machine-learning-and-the-digital-supply-chain/ 
-* [36] https://semiengineering.com/deep-learning-spreads/ 
-* [37] https://en.wikipedia.org/wiki/Convolutional_neural_network 
-* [38] https://www.slideshare.net/ckmarkohchang/applied-deep-learning-1103-convolutional neural-networks 
-* [39] https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/relu_layer.html 
-* [40] https://medium.com/@siddharthdas_32104/cnns-architectures-lenet-alexnet-vgg-googlenet resnet-and-more-666091488df5 
+* [1] https://us.tomonews.net
+* [2] https://www.dji.com/phantom-3-pro 
+* [3] https://www.tensorflow.org/ 
+* [4] https://www.toptal.com/machine-learning/tensorflow-python-tutorial 
+* [5] https://evrythng.com/machine-learning-and-the-digital-supply-chain/ 
+* [6] https://semiengineering.com/deep-learning-spreads/ 
+* [7] https://en.wikipedia.org/wiki/Convolutional_neural_network 
+* [8] https://www.slideshare.net/ckmarkohchang/applied-deep-learning-1103-convolutional neural-networks 
+* [9] https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/relu_layer.html 
+* [10] https://medium.com/@siddharthdas_32104/cnns-architectures-lenet-alexnet-vgg-googlenet resnet-and-more-666091488df5 
 
 
