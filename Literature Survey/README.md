@@ -132,7 +132,7 @@ At the point when an assailant has a physical nearness the quantity of conceivab
 
 [https://ieeexplore.ieee.org/document/7848992](https://ieeexplore.ieee.org/document/7848992)
 
-10. Designing of self-tuning PID controller for AR drone quadrotor by V. Madhu Babu, Kaushik Das, Swagat Kumar published at ICAR on IEEE
+10. Designing of self-tuning PID controller for AR drone quadrotor by V. Madhu Babuu, Kaushik Das, Swagat Kumar published at ICAR on IEEE
 
 [https://ieeexplore.ieee.org/abstract/document/8023513](https://ieeexplore.ieee.org/abstract/document/8023513)
 
