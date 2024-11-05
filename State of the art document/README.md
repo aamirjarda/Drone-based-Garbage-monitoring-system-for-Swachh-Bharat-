@@ -88,7 +88,7 @@ Purpose of the Document: Highlight the role of drones (UAVs) in modernizing wast
 
 **International Initiatives:**
 
-* Examples from countries like the USA, Japan, and Australiaa.
+* Examples from countries like the USA, Japan, and Australia.
 
 **Indian Pilot Projects:**
 
